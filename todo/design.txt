@@ -1,0 +1,4 @@
+1) store items(tasks)
+a. group similar tasks (Nested Dicts)
+b. store tasks in a set, or list
+c. add, remove, delete tasks
